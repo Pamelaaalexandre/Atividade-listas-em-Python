@@ -1,5 +1,6 @@
 
 🛍️ Sistema de Cadastro de Produtos (Python CLI)
+
 Este é um projeto simples e prático desenvolvido em Python para consolidar conceitos essenciais de programação, como estruturas de dados (listas), estruturas condicionais, laços de repetição (loops) e manipulação dinâmica de dados.
 
 O projeto simula um sistema básico de gerenciamento de estoque, dividido em blocos de atividades.
